@@ -4,5 +4,5 @@ import math
 
 
 def to_str(n: float) -> str:
-    ''' str of float '''
+    ''' return str of float '''
     return str(n)
