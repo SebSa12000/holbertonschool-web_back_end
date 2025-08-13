@@ -1,0 +1,6 @@
+// insert
+db.mongo.insert(
+   {
+      name: "Holberton school"
+   }
+)
